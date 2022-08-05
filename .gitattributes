@@ -1,0 +1,4 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+applications.csv filter=lfs diff=lfs merge=lfs -text
+credit.csv filter=lfs diff=lfs merge=lfs -text
+credits.csv filter=lfs diff=lfs merge=lfs -text

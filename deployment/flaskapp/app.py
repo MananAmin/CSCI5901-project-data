@@ -10,8 +10,8 @@ import boto3
 from datetime import datetime
 
 session = boto3.Session(
-    aws_access_key_id="AKIASVGLKLB6GCFTIT63",
-    aws_secret_access_key="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",
+    aws_access_key_id="*****",
+    aws_secret_access_key="****",
 )
 
 app = Flask(__name__)
